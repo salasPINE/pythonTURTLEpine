@@ -17,4 +17,4 @@ black, white
 
 [Color RGB List](https://www.discogcodingacademy.com/turtle-colours)
 
-[Trinket Color Picker](https://trinket.io/docs/colors)
+[Named colors (Coddy)](https://coddy.tech/tools/color-converter#named-colors)
