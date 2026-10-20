@@ -1,8 +1,6 @@
 # pythonTURTLE
 Python Turtle Code
 
-Synchronized with Replit
-
 Remove from Git Repo (git remote rm origin)
 To fix sync problem (git push --set-upstream origin main)
 
